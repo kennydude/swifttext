@@ -1,0 +1,13 @@
+gen
+.project
+*.iml
+.iml
+bin
+/.classpath
+
+.idea
+out
+*.apk
+*.zip
+
+.settings

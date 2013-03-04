@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SwiftText" parent="@android:style/Theme.Holo"></style>
+
+    <item type="bool" name="needs_theme">false</item>
+</resources>
